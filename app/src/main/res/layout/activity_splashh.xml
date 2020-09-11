@@ -14,5 +14,13 @@
         app:srcCompat="@drawable/me"
         tools:layout_editor_absoluteX="2dp"
         tools:layout_editor_absoluteY="150dp" />
+    <TextView
+        android:id="@+id/txt_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="OPEN"
+        >
+
+    </TextView>
 
 </RelativeLayout>
